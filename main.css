@@ -1,0 +1,24 @@
+body, html{
+   background: url(images/computer.png) no-repeat center fixed;
+   background-size: cover;
+   scroll-behavior: smooth;
+}
+
+span {
+   color: lightgreen;
+}
+
+header {
+   padding-top: 50px;
+}
+
+h1 {
+   font-size: 64px;
+   margin-top: 50px;
+   margin-left: 50px;
+}
+
+section {
+   margin-top: 650px;
+   padding-top: 50px;
+}
