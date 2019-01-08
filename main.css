@@ -27,6 +27,12 @@ header {
    padding-top: 100px;
 }
 
+.text-light {
+   color: #fff!important;
+   font-size: 20px;
+   transition: 0.3s;
+}
+
 h1 {
    font-size: 64px;
    margin-top: -20px;
