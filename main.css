@@ -25,7 +25,7 @@ header {
    margin-top: -250px;
 }
 
-#Projects {
+#projects {
    margin-top: 250px;
    padding-top: 100px;
 }
@@ -68,7 +68,7 @@ h2 {
 .carousel-inner img {
    margin: auto;
    margin-bottom: 100px;
-   border-radius: 5px;
+   border-radius: 20px;
 }
 
 .navbar {
