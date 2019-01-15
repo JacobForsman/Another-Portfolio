@@ -112,3 +112,34 @@ h2 {
    animation-duration: 3s;
    animation-delay: .4s;
 }
+
+/*RESPONSIVE IMAGES*/
+
+
+.img-row {
+   display: none;
+}
+
+
+@media only screen and (max-width: 415px) {
+   #carouselExampleIndicators {
+      display: none;
+   }
+
+   .img-row {
+      display: flex;
+      flex-wrap: wrap;
+      padding: 0 4px;
+      justify-content: center;
+   }
+
+   .column img {
+      margin-top: 24px;
+      vertical-align: middle;
+      width: 350px;
+      display: flex;
+      justify-content: center;
+      border-radius: 20px;
+   }
+
+}
