@@ -3,7 +3,7 @@ html {
 }
 
 body {
-   background: url(images/computer.png) no-repeat center fixed;
+   background: url(images/computer-compressor.png) no-repeat center fixed;
    background-size: cover;
 }
 
@@ -121,7 +121,7 @@ h2 {
 }
 
 
-@media only screen and (max-width: 415px) {
+@media only screen and (max-width: 650px) {
    #carouselExampleIndicators {
       display: none;
    }
